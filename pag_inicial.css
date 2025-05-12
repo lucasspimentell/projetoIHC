@@ -1,0 +1,83 @@
+body{
+
+     background-color: rgb(35, 131, 131);
+}
+header{
+   color: aliceblue;
+   text-align: center;
+   font: normal 18pt arial;
+}
+section{
+   background-color: rgb(121, 229, 229);
+   border-radius: 15px;
+   box-shadow: 10px 10px 3px black;
+   width: 250px;
+   height: 200px;
+   margin: auto;
+  
+   
+}
+
+footer{
+color: aliceblue;
+padding: 50px;
+text-align: center;
+font-style: italic;
+}
+#musicas{
+   padding: 55px;
+   
+}
+#musica1{
+   background-color: rgb(230, 176, 176);
+   text-decoration: none;
+   border-radius: 3px;
+   color: black;box-shadow: 3px 3px 5px black;
+}
+#musica2{
+   background-color: rgb(98, 244, 0);
+   text-decoration: none;
+   border-radius: 3px;
+   color: black;box-shadow: 3px 3px 5px black;
+}
+#musica3{
+   background-color: rgb(179, 230, 176);
+   text-decoration: none;
+   border-radius: 3px;
+   color: black;box-shadow: 3px 3px 5px black;
+}
+#musica4{
+   background-color: rgb(176, 198, 230);
+   text-decoration: none;
+   border-radius: 3px;
+   color: black;box-shadow: 3px 3px 5px black;
+}
+#musica5{
+   background-color: rgba(65, 34, 220, 0.671);
+   text-decoration: none;
+   border-radius: 3px;
+   color: black;box-shadow: 3px 3px 5px black;
+}
+#musica6{
+   background-color: rgb(235, 107, 9);
+   text-decoration: none;
+   border-radius: 3px;
+   color: black;box-shadow: 3px 3px 5px black;
+}
+#musica7{
+   background-color: rgb(192, 30, 30);
+   text-decoration: none;
+   border-radius: 3px;
+   color: black;box-shadow: 3px 3px 5px black;
+}
+#musica8{
+   background-color: rgb(15, 169, 36);
+   text-decoration: none;
+   border-radius: 3px;
+   color: black;box-shadow: 3px 3px 5px black;
+}
+
+
+
+
+
