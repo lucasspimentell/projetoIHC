@@ -1,83 +1,82 @@
-body{
-
-     background-color: rgb(35, 131, 131);
+body {
+background-image: url("parede1.jpg");
+   background-color: rgb(231, 239, 239);
 }
-header{
-   color: aliceblue;
+
+#titulo {
+   color: rgb(1, 81, 150);
    text-align: center;
-   font: normal 18pt arial;
+   font-family: cursive;
+   font-size: 50px;
 }
-section{
-   background-color: rgb(121, 229, 229);
-   border-radius: 15px;
-   box-shadow: 10px 10px 3px black;
-   width: 250px;
-   height: 200px;
-   margin: auto;
+#texto{
+   
+   color: #00035d;
   
+   width: 1000px;
+   margin-top: 100px;
+   padding: 10px;
+   
+  
+   font-size: 30px;
+    font-family: cursive;
    
 }
 
-footer{
-color: aliceblue;
-padding: 50px;
-text-align: center;
-font-style: italic;
+#container {
+   
+   
+
+   width: 900px;
+   height: 590px;
+   margin-left: 500px;
+   display: flex;
+
+   
+
+
 }
-#musicas{
-   padding: 55px;
+
+footer {
+   color: rgb(1, 32, 59);
+   padding: 0px;
+   text-align: center;
+   font-style: italic;
+}
+
+#musicas {
+   text-align: end;
+   width: 1000px;
+  background-color: rgba(75, 78, 78, 0.356);
+  align-content: center;
+  border-radius: 10px;
+  
+
+}
+
+#musica1,#musica2,#musica3,#musica4,#musica5,#musica6,#musica7,#musica8 {
+   margin: 4px;
+   width: 550px;
+   height: 60px;
+   background-color: rgba(17, 88, 165, 0.77);
+   font-family: cursive;
+   font-size: 20px;
+   text-decoration: none;
+   text-align: left;
+   border-radius: 3px;
+   color: rgb(255, 255, 255);
+   box-shadow: 3px 3px 5px black;
    
 }
-#musica1{
-   background-color: rgb(230, 176, 176);
-   text-decoration: none;
-   border-radius: 3px;
-   color: black;box-shadow: 3px 3px 5px black;
-}
-#musica2{
-   background-color: rgb(98, 244, 0);
-   text-decoration: none;
-   border-radius: 3px;
-   color: black;box-shadow: 3px 3px 5px black;
-}
-#musica3{
-   background-color: rgb(179, 230, 176);
-   text-decoration: none;
-   border-radius: 3px;
-   color: black;box-shadow: 3px 3px 5px black;
-}
-#musica4{
-   background-color: rgb(176, 198, 230);
-   text-decoration: none;
-   border-radius: 3px;
-   color: black;box-shadow: 3px 3px 5px black;
-}
-#musica5{
-   background-color: rgba(65, 34, 220, 0.671);
-   text-decoration: none;
-   border-radius: 3px;
-   color: black;box-shadow: 3px 3px 5px black;
-}
-#musica6{
-   background-color: rgb(235, 107, 9);
-   text-decoration: none;
-   border-radius: 3px;
-   color: black;box-shadow: 3px 3px 5px black;
-}
-#musica7{
-   background-color: rgb(192, 30, 30);
-   text-decoration: none;
-   border-radius: 3px;
-   color: black;box-shadow: 3px 3px 5px black;
-}
-#musica8{
-   background-color: rgb(15, 169, 36);
-   text-decoration: none;
-   border-radius: 3px;
-   color: black;box-shadow: 3px 3px 5px black;
+
+#bandeira{
+  margin-left: 70px;
+   
 }
 
-
-
-
-
+#list{
+   color: #00035d;
+padding: 10px;
+font-size: 25px;
+font-family: cursive;
+}
