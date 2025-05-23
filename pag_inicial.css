@@ -1,5 +1,5 @@
 body {
-background-image: url("parede1.jpg");
+   background-image: url("parede1.jpg");
    background-color: rgb(231, 239, 239);
 }
 
@@ -9,30 +9,31 @@ background-image: url("parede1.jpg");
    font-family: cursive;
    font-size: 50px;
 }
-#texto{
-   
+
+#texto {
+
    color: #00035d;
-  
+
    width: 1000px;
    margin-top: 100px;
    padding: 10px;
-   
-  
+
+
    font-size: 30px;
-    font-family: cursive;
-   
+   font-family: cursive;
+
 }
 
 #container {
-   
-   
+
+
 
    width: 900px;
    height: 590px;
    margin-left: 500px;
    display: flex;
 
-   
+
 
 
 }
@@ -47,14 +48,21 @@ footer {
 #musicas {
    text-align: end;
    width: 1000px;
-  background-color: rgba(75, 78, 78, 0.356);
-  align-content: center;
-  border-radius: 10px;
-  
+   background-color: rgba(75, 78, 78, 0.221);
+   align-content: center;
+   border-radius: 20px;
+
 
 }
 
-#musica1,#musica2,#musica3,#musica4,#musica5,#musica6,#musica7,#musica8 {
+#musica1,
+#musica2,
+#musica3,
+#musica4,
+#musica5,
+#musica6,
+#musica7,
+#musica8 {
    margin: 4px;
    width: 550px;
    height: 60px;
@@ -63,20 +71,20 @@ footer {
    font-size: 20px;
    text-decoration: none;
    text-align: left;
-   border-radius: 3px;
+   border-radius: 20px;
    color: rgb(255, 255, 255);
-   box-shadow: 3px 3px 5px black;
-   
+   box-shadow: 0px 0px 3px rgb(255, 255, 255);
+
 }
 
-#bandeira{
-  margin-left: 70px;
-   
+#bandeira {
+   margin-left: 70px;
+
 }
 
-#list{
+#list {
    color: #00035d;
-padding: 10px;
-font-size: 25px;
-font-family: cursive;
+   padding: 10px;
+   font-size: 25px;
+   font-family: cursive;
 }
