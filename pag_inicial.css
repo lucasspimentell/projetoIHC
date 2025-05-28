@@ -1,5 +1,5 @@
 body {
-   background-image: url("parede1.jpg");
+   background-image: url("imagens/parede1.jpg");
    background-color: rgb(231, 239, 239);
 }
 
@@ -74,7 +74,19 @@ footer {
    border-radius: 20px;
    color: rgb(255, 255, 255);
    box-shadow: 0px 0px 3px rgb(255, 255, 255);
+   
 
+}
+#musica1:hover,
+#musica2:hover,
+#musica3:hover,
+#musica4:hover,
+#musica5:hover,
+#musica6:hover,
+#musica7:hover,
+#musica8:hover {
+  background-color: rgb(124, 194, 218); /* Muda a cor de fundo ao passar o mouse */
+  transition: all;
 }
 
 #bandeira {
@@ -88,3 +100,4 @@ footer {
    font-size: 25px;
    font-family: cursive;
 }
+
