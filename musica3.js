@@ -163,138 +163,138 @@ function ingles(){
 function portugues(){
 
     let idioma = document.getElementById("tradu");
-    let ptBR = `<pre><code>
-        Tom: <span style ="color: red;">G </span>
-[Intro] 
+        let ptBR = `<pre><code>
+            Tom: <span style ="color: red;">G </span>
+    [Intro] 
 
-  <span style ="color: red;">Am7</span>    <span style ="color: red;">C </span>     <span style ="color: red;">G</span>
-Uuuh, uuuuh, uuuh
-  <span style ="color: red;">Am7 </span>   <span style ="color: red;">C</span>     <span style ="color: red;"> G</span>
-Uuuh, uuuuh, uuuh
+      <span style ="color: red;">Am7</span>    <span style ="color: red;">C </span>     <span style ="color: red;">G</span>
+    Uuuh, uuuuh, uuuh
+      <span style ="color: red;">Am7 </span>   <span style ="color: red;">C</span>     <span style ="color: red;"> G</span>
+    Uuuh, uuuuh, uuuh
 
-[Primeira Parte]
+    [Primeira Parte]
 
-   <span style ="color: red;">Am7</span>
-Assim ela já vai
-       
-Achar o cara que lhe queira
-           <span style ="color: red;">G</span>
-Como você não quis fazer
-         <span style ="color: red;">Am7</span>
-Sim, eu sei que ela só vai
+      <span style ="color: red;">Am7</span>
+    Assim ela já vai
           
-Achar alguém pra vida inteira
-           <span style ="color: red;">G</span>
-Como você não quis
-
-[Segunda Parte]
-
-     <span style ="color: red;">Am7</span>
-Tão fácil perceber
-       
-Que a sorte escolheu você
-        <span style ="color: red;">G</span>
-E você cego nem nota
-        <span style ="color: red;">Am7</span>
-Quando tudo ainda é nada
-        
-Quando o dia é madrugada
-         <span style ="color: red;">G</span>
-Você gastou sua cota
-
-        <span style ="color: red;">Am7</span>
-Eu não posso te ajudar
-     
-Esse caminho não há outro
+    Achar o cara que lhe queira
               <span style ="color: red;">G</span>
-Que por você faça
-       Am7
-Eu queria insistir
-        
-Mas o caminho só existe
-             <span style ="color: red;">G</span>
-Quando você passa
-
-[Refrão]
-
-  <span style ="color: red;">Am7 </span> <span style ="color: red;"> C </span>      <span>G</span>
-Uuuh, uuuuh, uuuh
-
-[Terceira Parte]
-
-        <span style ="color: red;">Am7</span>
-Quando muito ainda é pouco
-      
-Você quer infantil e louco
-         <span style ="color: red;">G</span>
-Um sol acima do sol
+    Como você não quis fazer
             <span style ="color: red;">Am7</span>
-Mas quando sempre é sempre nunca
-         
-Quando ao lado ainda é muito mais longe
-      <span style ="color: red;">G</span>
-Que qualquer lugar
-
-[Refrão]
-
-       <span style ="color: red;">Am7</span>
-Ô, um dia ela já vai
-        
-Achar o cara que lhe queira
-           <span style ="color: red;">G</span>
-Como você não quis fazer
-         <span style ="color: red;">Am7</span>
-Sim, eu sei que ela só vai
-      
-Achar alguém pra vida inteira
-           <span style ="color: red;">G</span>
-Como você não quis
-
-  <span style ="color: red;">Am7 </span>   <span style ="color: red;">C </span>     <span style ="color: red;">G</span>
-Uuuh, uuuuh, uuuh
-  <span style ="color: red;">Am7 </span>  <span style ="color: red;">C</span>       <span style ="color: red;">G</span>
-Uuuh, uuuuh, uuuh
-
-[Quarta Parte]
-
-      <span style ="color: red;">Am7</span>
-Se a sorte lhe sorriu
-       
-Porque não sorrir de volta
-           <span style ="color: red;">G</span>
-Você nunca olha a sua volta
-      <span style ="color: red;">Am7</span>
-Não quero estar sendo mal
-   
-Moralista ou banal
+    Sim, eu sei que ela só vai
+              
+    Achar alguém pra vida inteira
               <span style ="color: red;">G</span>
-Aqui está o que me afligia
+    Como você não quis
 
-[Quinta Parte]
+    [Segunda Parte]
 
-       <span style ="color: red;">Am7</span>
-Ô, um dia ela já vai
-    
-Achar o cara que lhe queira
-           <span style ="color: red;">G</span>
-Como você não quis fazer
-         <span style ="color: red;">Am7</span>
-Sim, eu sei que ela só vai
+        <span style ="color: red;">Am7</span>
+    Tão fácil perceber
+          
+    Que a sorte escolheu você
+            <span style ="color: red;">G</span>
+    E você cego nem nota
+            <span style ="color: red;">Am7</span>
+    Quando tudo ainda é nada
+            
+    Quando o dia é madrugada
+            <span style ="color: red;">G</span>
+    Você gastou sua cota
+
+            <span style ="color: red;">Am7</span>
+    Eu não posso te ajudar
+        
+    Esse caminho não há outro
+                  <span style ="color: red;">G</span>
+    Que por você faça
+          Am7
+    Eu queria insistir
+            
+    Mas o caminho só existe
+                <span style ="color: red;">G</span>
+    Quando você passa
+
+    [Refrão]
+
+      <span style ="color: red;">Am7 </span> <span style ="color: red;"> C </span>      <span>G</span>
+    Uuuh, uuuuh, uuuh
+
+    [Terceira Parte]
+
+            <span style ="color: red;">Am7</span>
+    Quando muito ainda é pouco
+          
+    Você quer infantil e louco
+            <span style ="color: red;">G</span>
+    Um sol acima do sol
+                <span style ="color: red;">Am7</span>
+    Mas quando sempre é sempre nunca
+            
+    Quando ao lado ainda é muito mais longe
+          <span style ="color: red;">G</span>
+    Que qualquer lugar
+
+    [Refrão]
+
+          <span style ="color: red;">Am7</span>
+    Ô, um dia ela já vai
+            
+    Achar o cara que lhe queira
+              <span style ="color: red;">G</span>
+    Como você não quis fazer
+            <span style ="color: red;">Am7</span>
+    Sim, eu sei que ela só vai
+          
+    Achar alguém pra vida inteira
+              <span style ="color: red;">G</span>
+    Como você não quis
+
+      <span style ="color: red;">Am7 </span>   <span style ="color: red;">C </span>     <span style ="color: red;">G</span>
+    Uuuh, uuuuh, uuuh
+      <span style ="color: red;">Am7 </span>  <span style ="color: red;">C</span>       <span style ="color: red;">G</span>
+    Uuuh, uuuuh, uuuh
+
+    [Quarta Parte]
+
+          <span style ="color: red;">Am7</span>
+    Se a sorte lhe sorriu
+          
+    Porque não sorrir de volta
+              <span style ="color: red;">G</span>
+    Você nunca olha a sua volta
+          <span style ="color: red;">Am7</span>
+    Não quero estar sendo mal
       
-Achar alguém pra vida inteira
-           <span style ="color: red;">G</span>
-Como você não quis
+    Moralista ou banal
+                  <span style ="color: red;">G</span>
+    Aqui está o que me afligia
 
-[Refrão Final]
+    [Quinta Parte]
 
-  <span style ="color: red;">Am7 </span>   <span style ="color: red;">C</span>      <span style ="color: red;">G</span>
-Uuuh, uuuuh, uuuh
-  <span style ="color: red;">Am7</span>   <span style ="color: red;">C </span>      <span style ="color: red;">G</span>
-Uuuh, uuuuh, uuuh
-  <span style ="color: red;">Am7</span>   <span style ="color: red;">C </span>      <span style ="color: red;">G</span>
-Uuuh, uuuuh, uuuh
-  <span style ="color: red;">Am7</span>   <span style ="color: red;">C</span>       <span style ="color: red;">G</span>
-Uuuh, uuuuh, uuuh</code></pre>`
+          <span style ="color: red;">Am7</span>
+    Ô, um dia ela já vai
+        
+    Achar o cara que lhe queira
+              <span style ="color: red;">G</span>
+    Como você não quis fazer
+            <span style ="color: red;">Am7</span>
+    Sim, eu sei que ela só vai
+          
+    Achar alguém pra vida inteira
+              <span style ="color: red;">G</span>
+    Como você não quis
+
+    [Refrão Final]
+
+      <span style ="color: red;">Am7 </span>   <span style ="color: red;">C</span>      <span style ="color: red;">G</span>
+    Uuuh, uuuuh, uuuh
+      <span style ="color: red;">Am7</span>   <span style ="color: red;">C </span>      <span style ="color: red;">G</span>
+    Uuuh, uuuuh, uuuh
+      <span style ="color: red;">Am7</span>   <span style ="color: red;">C </span>      <span style ="color: red;">G</span>
+    Uuuh, uuuuh, uuuh
+      <span style ="color: red;">Am7</span>   <span style ="color: red;">C</span>       <span style ="color: red;">G</span>
+    Uuuh, uuuuh, uuuh</code></pre>`
 
 idioma.innerHTML = ptBR
 

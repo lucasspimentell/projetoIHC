@@ -1,0 +1,35 @@
+/*estilo da cifra*/
+#cifra {
+
+    font-size: 15px;
+    margin: auto;
+    width: 350px;
+    
+}
+
+/*estilos dos botôes*/
+.button {
+    font-size: 17px;
+    width: 90px;
+    height: 35px;
+    background-color: rgba(17, 88, 165, 0.77);
+    color: rgb(255, 255, 255);
+    border-radius: 8px;
+
+}
+
+/*aqui deixei os botôes fixos */
+#idioma {
+
+    position: fixed;
+    background-color: rgb(213, 226, 238);
+    width: 500px;
+    top: 0;
+    left: 0;
+    padding: 10px;
+
+}
+/*para que a cifra fique mais em baixo*/
+body {
+    padding: 150px;
+}
