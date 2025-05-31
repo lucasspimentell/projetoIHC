@@ -3,8 +3,9 @@
 
     font-size: 15px;
     margin: auto;
-    width: 350px;
-    
+    width: 570px;
+    box-shadow: 2px 5px 15px black;
+    border: 2px solid rgba(0, 0, 0, 0.307);
 }
 
 /*estilos dos botôes*/
@@ -20,10 +21,10 @@
 
 /*aqui deixei os botôes fixos */
 #idioma {
-
+    border-radius: 10px;
     position: fixed;
     background-color: rgb(213, 226, 238);
-    width: 500px;
+    width: 450px;
     top: 0;
     left: 0;
     padding: 10px;

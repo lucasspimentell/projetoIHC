@@ -2,139 +2,139 @@ function ingles2(){
     let idioma = document.getElementById("tradu");
     let ingles = `
     <pre><code>
-    Key: <span style="color: red;">A</span>
+        Key: <span style="color: red;">A</span>
 
-[Intro]  
-<span style="color: red;">A9  E  Bm  D</span>  
-<span style="color: red;">A9  E  Bm</span>  
-<span style="color: red;">A9  E  Bm  D</span>  
-<span style="color: red;">G  D/F#  A9</span>
+        [Intro]  
+        <span style="color: red;">A9  E  Bm  D</span>  
+        <span style="color: red;">A9  E  Bm</span>  
+        <span style="color: red;">A9  E  Bm  D</span>  
+        <span style="color: red;">G  D/F#  A9</span>
 
-[Tab - Intro Solo]  
-E|-12b14r12-12--12------9-----------------------------|  
-B|------------------9h10------9-12------10p9-----------|  
-G|-------------------------11------9-11------9---9/10-|  
-D|---------------------------------------------9-------|  
-A|-----------------------------------------------------|  
-E|-----------------------------------------------------|
+        [Tab - Intro Solo]  
+        E|-12b14r12-12--12------9-----------------------------|  
+        B|------------------9h10------9-12------10p9-----------|  
+        G|-------------------------11------9-11------9---9/10-|  
+        D|---------------------------------------------9-------|  
+        A|-----------------------------------------------------|  
+        E|-----------------------------------------------------|
 
-[Chorus]  
-<span style="color: red;">A9  A9/C#</span>  
-Because He lives  
-<span style="color: red;">D</span>  
-I can face tomorrow  
-<span style="color: red;">A9</span>  
-Because He lives  
-<span style="color: red;">E</span>  
-All fear is gone  
+        [Chorus]  
+        <span style="color: red;">A9  A9/C#</span>  
+        Because He lives  
+        <span style="color: red;">D</span>  
+        I can face tomorrow  
+        <span style="color: red;">A9</span>  
+        Because He lives  
+        <span style="color: red;">E</span>  
+        All fear is gone  
 
-<span style="color: red;">A9</span>  
-Because I know, I know  
-<span style="color: red;">D</span>  
-He holds the future  
-<span style="color: red;">A9</span>           <span style="color: red;">E</span>  
-And life is worth the living  
-<span style="color: red;">A9</span>  
-Just because He lives
+        <span style="color: red;">A9</span>  
+        Because I know, I know  
+        <span style="color: red;">D</span>  
+        He holds the future  
+        <span style="color: red;">A9</span>           <span style="color: red;">E</span>  
+        And life is worth the living  
+        <span style="color: red;">A9</span>  
+        Just because He lives
 
-[Verse 1]  
-<span style="color: red;">D</span>  
-God sent His Son, they called Him Jesus  
-<span style="color: red;">A9</span>             <span style="color: red;">Bm  E</span>  
-He came to love, heal and forgive  
-<span style="color: red;">A9</span>            <span style="color: red;">D</span>  
-He lived and died to buy my pardon  
-<span style="color: red;">Bm  A9/C#  F#m</span>           <span style="color: red;">E/G#</span>  
-An empty grave is there to prove my Savior lives  
-<span style="color: red;">D</span>  
-Because He lives
+        [Verse 1]  
+        <span style="color: red;">D</span>  
+        God sent His Son, they called Him Jesus  
+        <span style="color: red;">A9</span>             <span style="color: red;">Bm  E</span>  
+        He came to love, heal and forgive  
+        <span style="color: red;">A9</span>            <span style="color: red;">D</span>  
+        He lived and died to buy my pardon  
+        <span style="color: red;">Bm  A9/C#  F#m</span>           <span style="color: red;">E/G#</span>  
+        An empty grave is there to prove my Savior lives  
+        <span style="color: red;">D</span>  
+        Because He lives
 
-[Chorus]  
-<span style="color: red;">A9</span>  
-Because He lives  
-<span style="color: red;">D</span>  
-I can face tomorrow  
-<span style="color: red;">A9</span>  
-Because He lives  
-<span style="color: red;">E</span>  
-All fear is gone  
+        [Chorus]  
+        <span style="color: red;">A9</span>  
+        Because He lives  
+        <span style="color: red;">D</span>  
+        I can face tomorrow  
+        <span style="color: red;">A9</span>  
+        Because He lives  
+        <span style="color: red;">E</span>  
+        All fear is gone  
 
-<span style="color: red;">A9</span>  
-Because I know, I know  
-<span style="color: red;">D</span>  
-He holds the future  
-<span style="color: red;">Bm  A/C#  F#m</span>        <span style="color: red;">E/G#</span>  
-And life is worth the living  
-<span style="color: red;">G  F#5  G#5  E</span>  
-Just because He lives
+        <span style="color: red;">A9</span>  
+        Because I know, I know  
+        <span style="color: red;">D</span>  
+        He holds the future  
+        <span style="color: red;">Bm  A/C#  F#m</span>        <span style="color: red;">E/G#</span>  
+        And life is worth the living  
+        <span style="color: red;">G  F#5  G#5  E</span>  
+        Just because He lives
 
-[Verse 2]  
-<span style="color: red;">A9</span>           <span style="color: red;">D</span>  
-And then one day, I’ll cross the river  
-<span style="color: red;">A9</span>            <span style="color: red;">Bm  E</span>  
-I’ll fight life’s final war with pain  
-<span style="color: red;">A9</span>           <span style="color: red;">D</span>  
-And then as death gives way to victory  
-<span style="color: red;">Bm  A9/C#  F#m</span>         <span style="color: red;">E/G#</span>  
-I’ll see the lights of glory and I’ll know He lives  
+        [Verse 2]  
+        <span style="color: red;">A9</span>           <span style="color: red;">D</span>  
+        And then one day, I’ll cross the river  
+        <span style="color: red;">A9</span>            <span style="color: red;">Bm  E</span>  
+        I’ll fight life’s final war with pain  
+        <span style="color: red;">A9</span>           <span style="color: red;">D</span>  
+        And then as death gives way to victory  
+        <span style="color: red;">Bm  A9/C#  F#m</span>         <span style="color: red;">E/G#</span>  
+        I’ll see the lights of glory and I’ll know He lives  
 
-[Chorus]  
-<span style="color: red;">A9</span>  
-Because He lives  
-<span style="color: red;">D</span>  
-I can face tomorrow  
-<span style="color: red;">A9</span>  
-Because He lives  
-<span style="color: red;">E</span>  
-All fear is gone  
+        [Chorus]  
+        <span style="color: red;">A9</span>  
+        Because He lives  
+        <span style="color: red;">D</span>  
+        I can face tomorrow  
+        <span style="color: red;">A9</span>  
+        Because He lives  
+        <span style="color: red;">E</span>  
+        All fear is gone  
 
-<span style="color: red;">A9</span>  
-Because I know, I know  
-<span style="color: red;">D</span>  
-He holds the future  
-<span style="color: red;">Bm  A/C#  F#m</span>        <span style="color: red;">E/G#</span>  
-And life is worth the living  
-<span style="color: red;">G</span>  
-Just because He lives
+        <span style="color: red;">A9</span>  
+        Because I know, I know  
+        <span style="color: red;">D</span>  
+        He holds the future  
+        <span style="color: red;">Bm  A/C#  F#m</span>        <span style="color: red;">E/G#</span>  
+        And life is worth the living  
+        <span style="color: red;">G</span>  
+        Just because He lives
 
-[Solo]  
-<span style="color: red;">A9  G  G5</span>  
-<span style="color: red;">F#5  A5  E</span>
+        [Solo]  
+        <span style="color: red;">A9  G  G5</span>  
+        <span style="color: red;">F#5  A5  E</span>
 
-[Tab - Main Solo]  
-Part 1 of 4  
-E|--------10---------------------10--------------------|  
-B|-10-8-7----7-8-7--7~--10-8-7----7-8-7--7--------|  
+        [Tab - Main Solo]  
+        Part 1 of 4  
+        E|--------10---------------------10--------------------|  
+        B|-10-8-7----7-8-7--7~--10-8-7----7-8-7--7--------|  
 
-Part 2 of 4  
-E|---------12------------------------------------------|  
-B|-12-10-9----9-10-9--9-----------------------------|  
+        Part 2 of 4  
+        E|---------12------------------------------------------|  
+        B|-12-10-9----9-10-9--9-----------------------------|  
 
-Part 3 of 4  
-B|-12-0-10-12-0-0--14-0-12-14-0-0--15-0-14-15----------|  
+        Part 3 of 4  
+        B|-12-0-10-12-0-0--14-0-12-14-0-0--15-0-14-15----------|  
 
-Part 4 of 4  
-E|----------17-----------------------------------------|  
-B|-17-15-14----14-15-14--14--15-17b19~--7/87-7/10-|
+        Part 4 of 4  
+        E|----------17-----------------------------------------|  
+        B|-17-15-14----14-15-14--14--15-17b19~--7/87-7/10-|
 
-[Final Chorus]  
-<span style="color: red;">A9</span>  
-Because He lives  
-<span style="color: red;">D</span>  
-I can face tomorrow  
-<span style="color: red;">A9</span>  
-Because He lives  
-<span style="color: red;">E</span>  
-All fear is gone  
+        [Final Chorus]  
+        <span style="color: red;">A9</span>  
+        Because He lives  
+        <span style="color: red;">D</span>  
+        I can face tomorrow  
+        <span style="color: red;">A9</span>  
+        Because He lives  
+        <span style="color: red;">E</span>  
+        All fear is gone  
 
-<span style="color: red;">A9</span>  
-Because I know, I know  
-<span style="color: red;">D</span>  
-He holds the future  
-<span style="color: red;">Bm  A/C#  F#m</span>        <span style="color: red;">E/G#</span>  
-And life is worth the living  
-<span style="color: red;">D  A9/C#  A9</span>  
-Just because He lives </code></pre>
+        <span style="color: red;">A9</span>  
+        Because I know, I know  
+        <span style="color: red;">D</span>  
+        He holds the future  
+        <span style="color: red;">Bm  A/C#  F#m</span>        <span style="color: red;">E/G#</span>  
+        And life is worth the living  
+        <span style="color: red;">D  A9/C#  A9</span>  
+        Just because He lives </code></pre>
 `;
 
     idioma.innerHTML = ingles;
